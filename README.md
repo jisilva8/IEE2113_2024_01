@@ -1,7 +1,9 @@
 # IEE2113 Teoría Electromagnética 2024-I
 
 ## Clases
-Clase 01 (07/mar): Programa del Curso [Clase][Programa]
+Clase 01 (07/mar): Programa del Curso 
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase01-Programa.pdf)]
+[[Programa](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Administrativo/programa_curso_v1.pdf)]
 
 Clase 02 (08/mar): Electrostática en el Vacío [Clase]
 
