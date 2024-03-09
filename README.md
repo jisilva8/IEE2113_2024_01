@@ -1,2 +1,2 @@
-# IEE2113_2024_01
-IEE2113 Teoría Electromágnética 2024 Semestre 1
+# IEE2113 Teoría Electromagnética 2024-I
+
