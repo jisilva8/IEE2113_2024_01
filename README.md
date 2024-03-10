@@ -8,7 +8,8 @@ Clase 01 (07/mar): Programa del Curso
 Clase 02 (08/mar): Electrostática en el Vacío 
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase02-ElectroEnVacio.pdf)]
 
-Clase 03 (12/mar): Expansión Multipolar [Clase]
+Clase 03 (12/mar): Expansión Multipolar 
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase03-ExpansionMultipolar.pdf)]
 
 Clase 04 (14/mar): Electrostática en Materiales [Clase]
 
