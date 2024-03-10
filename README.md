@@ -11,7 +11,8 @@ Clase 02 (08/mar): Electrostática en el Vacío
 Clase 03 (12/mar): Expansión Multipolar 
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase03-ExpansionMultipolar.pdf)]
 
-Clase 04 (14/mar): Electrostática en Materiales [Clase]
+Clase 04 (14/mar): Electrostática en Materiales 
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase04-ElectroEnMateriales.pdf)]
 
 Clase 05 (15/mar): Teoría de la Relatividad Especial [Clase]
 
