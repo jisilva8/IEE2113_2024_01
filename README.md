@@ -15,7 +15,7 @@ Clase 04 (14/mar): Electrostática en Materiales
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase04-ElectroEnMateriales.pdf)]
 
 Clase 05 (15/mar): Teoría de la Relatividad Especial 
-[Clase]
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase05-RelatividadEspecial.pdf)]
 
 Clase 06 (19/mar): Magnetismo en el Vacío [Clase]
 
