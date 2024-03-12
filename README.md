@@ -69,7 +69,7 @@ Control 01: Programa del Curso
 [[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01_pauta.pdf)]
 
 Control 02: Electrostática General
-[[Pauta](https://www.youtube.com/watch?v=dQw4w9WgXcQ)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02_pauta.pdf)]
 
 ## Tareas
 Tarea 01: 
