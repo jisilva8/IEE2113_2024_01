@@ -17,7 +17,8 @@ Clase 04 (14/mar): Electrostática en Materiales
 Clase 05 (15/mar): Teoría de la Relatividad Especial 
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase05-RelatividadEspecial.pdf)]
 
-Clase 06 (19/mar): Magnetismo en el Vacío [Clase]
+Clase 06 (19/mar): Magnetismo en el Vacío
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase06-MagnetoEnVacio.pdf)]
 
 Clase 07 (21/mar): Magnetismo en Materiales [Clase]
 
@@ -70,6 +71,9 @@ Control 01: Programa del Curso
 
 Control 02: Electrostática General
 [[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02_pauta.pdf)]
+
+Control 03: Expansión Multipolar
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03_pauta.pdf)]
 
 ## Tareas
 Tarea 01: 
