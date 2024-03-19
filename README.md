@@ -20,7 +20,8 @@ Clase 05 (15/mar): Teoría de la Relatividad Especial
 Clase 06 (19/mar): Magnetismo en el Vacío
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase06-MagnetoEnVacio.pdf)]
 
-Clase 07 (21/mar): Magnetismo en Materiales [Clase]
+Clase 07 (21/mar): Magnetismo en Materiales
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase07-MagnetoEnMateriales.pdf)]
 
 Clase 08 (22/mar): Condiciones de Borde [Clase]
 
