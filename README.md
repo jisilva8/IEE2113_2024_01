@@ -26,7 +26,8 @@ Clase 07 (21/mar): Magnetismo en Materiales
 Clase 08 (22/mar): Condiciones de Borde [Clase]
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase08-CondicionesDeBorde.pdf)]
 
-Clase 09 (26/mar): Ecuaciones de Maxwell [Clase]
+Clase 09 (26/mar): Ecuaciones de Maxwell
+[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase09-EcuacionesDeMaxwell.pdf)]
 
 Clase 10 (TBA): Métodos Numéricos [Clase]
 
@@ -76,6 +77,10 @@ Control 02: Electrostática General
 
 Control 03: Expansión Multipolar
 [[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03_pauta.pdf)]
+
+Control 04: Transformaciones de Lorentz
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
+
 
 ## Tareas
 Tarea 01: 
