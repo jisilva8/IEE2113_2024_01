@@ -64,7 +64,7 @@ Tarea 01: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_202
 ## Ayudantías
 Ayudantía 01: Relatividad y Maxwell [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia01.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia01-PAUTA.pdf)]
 
-Ayudantía 03: Electrostática [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia02.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia02-PAUTA.pdf)]
+Ayudantía 02: Electrostática [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia02.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia02-PAUTA.pdf)]
 
 Ayudantía 03: Magnetostática [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia03.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia03-PAUTA.pdf)]
 
