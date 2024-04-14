@@ -29,43 +29,15 @@ Clase 08 (22/mar): Condiciones de Borde [Clase]
 Clase 09 (26/mar): Ecuaciones de Maxwell
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase09-EcuacionesDeMaxwell.pdf)]
 
-Clase 10 (TBA): Métodos Numéricos [Clase]
+Clase 10 (09/abr): Ondas Electromagnéticas [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase10-OndasEM.pdf)]
 
-Clase 11 (TBA): Ondas I [Clase]
+Clase 11 (11/abr): Propagación de Ondas EM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase11-PropagacionOndasEM.pdf)]
 
-Clase 12 (TBA): Ondas II [Clase]
+Clase 12 (12/abr): Polarización y Energía de Ondas EM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase12-PolarizacionEnergiaOndasEM.pdf)]
 
-Clase 13 (TBA): Ondas III [Clase]
+Clase 13 (16/abr): Ondas en Conductores
 
-Clase 14 (TBA): Líneas de Transmisión I [Clase]
-
-Clase 15 (TBA): Líneas de Transmisión II [Clase]
-
-Clase 16 (TBA): Líneas de Transmisión III [Clase]
-
-Clase 17 (TBA): Líneas de Transmisión IV [Clase]
-
-Clase 18 (TBA): Líneas de Transmisión V [Clase]
-
-Clase 19 (TBA): Guías de Ondas I [Clase]
-
-Clase 20 (TBA): Guías de Ondas II [Clase]
-
-Clase 21 (TBA): Guías de Ondas III [Clase]
-
-Clase 22 (TBA): Antenas I [Clase]
-
-Clase 23 (TBA): Antenas II [Clase]
-
-Clase 24 (TBA): Antenas III [Clase]
-
-Clase 25 (TBA): Antenas IV [Clase]
-
-Clase 26 (TBA): Resonancia Magnética [Clase]
-
-Clase 27 (TBA): Quantitative Susceptibility Mapping [Clase]
-
-Clase 28 (TBA): Física de Semiconductores [Clase]
+Clase 14 (18/abr): Ondas en Interfases
 
 
 ## Controles
@@ -81,6 +53,9 @@ Control 03: Expansión Multipolar
 Control 04: Transformaciones de Lorentz
 [[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
 
+Control 05: Condiciones de Borde
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
+
 
 ## Tareas
-Tarea 01: 
+Tarea 01: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_01.pdf)]
