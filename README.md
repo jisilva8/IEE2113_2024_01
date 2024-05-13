@@ -35,9 +35,15 @@ Clase 11 (11/abr): Propagación de Ondas EM [[Clase](https://github.com/jisilva8
 
 Clase 12 (12/abr): Polarización y Energía de Ondas EM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase12-PolarizacionEnergiaOndasEM.pdf)]
 
-Clase 13 (16/abr): Ondas en Conductores
+Clase 13 (16/abr): Ondas EM en conductores [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase13-OndasEMConductores.pdf)]
 
-Clase 14 (18/abr): Ondas en Interfases
+Clase 14 (18/abr): Incidencia Normal de Ondas EM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase14-IncidenciaNormal.pdf)]
+
+Clase 15 (23/abr): Incidencia Oblicua de Ondas EM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase15-IncidenciaOblicua.pdf)]
+
+Clase 16 (25/may): Método de Diferencias Finitas en el Dominio del Tiempo [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase16-DiferenciasFinitas.pdf)]
+
+Clase 17 (10/may): Líneas de Transmisión [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase17-IntroLineasdeTransmision.pdf)]
 
 
 ## Controles
@@ -55,6 +61,12 @@ Control 04: Transformaciones de Lorentz
 
 Control 05: Condiciones de Borde
 [[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
+
+Control I1: Popurrí de Electromagnetismo
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_I1_pauta.pdf)]
+
+Control 06: Ondas y Polarización
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06_pauta.pdf)]
 
 
 ## Tareas
