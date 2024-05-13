@@ -23,8 +23,7 @@ Clase 06 (19/mar): Magnetismo en el Vacío
 Clase 07 (21/mar): Magnetismo en Materiales
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase07-MagnetoEnMateriales.pdf)]
 
-Clase 08 (22/mar): Condiciones de Borde [Clase]
-[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase08-CondicionesDeBorde.pdf)]
+Clase 08 (22/mar): Condiciones de Borde [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase08-CondicionesDeBorde.pdf)]
 
 Clase 09 (26/mar): Ecuaciones de Maxwell
 [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase09-EcuacionesDeMaxwell.pdf)]
