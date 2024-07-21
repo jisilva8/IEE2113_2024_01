@@ -73,58 +73,58 @@ Clase 30 (10/may): QSM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob
 
 ## Controles
 Control 01: Programa del Curso 
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01-pauta.pdf)]
 
 Control 02: Electrostática General
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02-pauta.pdf)]
 
 Control 03: Expansión Multipolar
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03-pauta.pdf)]
 
 Control 04: Transformaciones de Lorentz
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04-pauta.pdf)]
 
 Control 05: Condiciones de Borde
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_05-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_05.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_05-pauta.pdf)]
 
 Control I1: Popurrí de Electromagnetismo
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i1_pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i1.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i1_pauta.pdf)]
 
 Control 06: Ecuación de Onda
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06-pauta.pdf)]
 
 Control 07: Métodos Analíticos
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_07-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_07.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_07-pauta.ipynb)]
 
 Control 08: Métodos Numéricos
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_08-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_08.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_08-pauta.pdf)]
 
 Control 09: Lineas de Transmisión
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_09-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_09.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_09-pauta.pdf)]
 
 Control 10: ROE
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_10-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_10.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_10-pauta.pdf)]
 
 Control I2: Ondas y LT
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i2-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i2.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i2-pauta.pdf)]
 
 Control 11: Guías de Ondas
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_11-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_11.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_11-pauta.pdf)]
 
 Control 12: Impedance Matching
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_12-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_12.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_12-pauta.pdf)]
 
 Control 13: Antenas
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_13-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_13.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_13-pauta.pdf)]
 
 Control 14: 4NEC2
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_14-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_14.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_14-pauta.pdf)]
 
 Control 15: Control de Oro
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_15-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_15.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_15-pauta.mp4)]
 
 Control I3: Aplicaciones de TEM
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i3-pauta.pdf)]
+[[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i3.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i3-pauta.pdf)]
 
 
 ## Tareas
@@ -154,7 +154,7 @@ Ayudantía 07: LT y WG [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/
 
 Taller 01: Simulación Analítica [[Notebook](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller01_SimulacionAnalitica.ipynb)]
 
-Taller 02: Diferencias Finitas [[Notebook](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller01_SimulacionAnalitica.ipynb)]
+Taller 02: Diferencias Finitas [[Notebook](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller02_DiferenciasFinitas.ipynb)]
 
 Taller 03: 4NEC2 [[Guía](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller_4nec2.pdf)]
 
