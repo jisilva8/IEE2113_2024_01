@@ -142,6 +142,24 @@ Ayudantía 02: Electrostática [[Enunciado](https://github.com/jisilva8/IEE2113_
 
 Ayudantía 03: Magnetostática [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia03.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia03-PAUTA.pdf)]
 
+Ayudantía 04: Ondas [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia04.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia04-PAUTA.pdf)]
+
+Ayudantía 05: Incidencia Oblicua y LT [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia05.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia05-PAUTA.pdf)]
+
+Ayudantía 06: LT [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia06.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia06-PAUTA.pdf)]
+
+Ayudantía 07: LT y WG [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia07.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Ayudantias/Ayudantia07-PAUTA.pdf)]
+
+## Talleres
+
+Taller 01: Simulación Analítica [[Notebook](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller01_SimulacionAnalitica.ipynb)]
+
+Taller 02: Diferencias Finitas [[Notebook](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller01_SimulacionAnalitica.ipynb)]
+
+Taller 03: 4NEC2 [[Guía](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Talleres/Taller_4nec2.pdf)]
+
 
 ## Compilados
 Compilado I1: Electromagnetismo [[Compilado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Compilados/CompiladoI01.pdf)]
+
+Compilado I2: Ondas y LT [[Compilado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Compilados/CompiladoI02.pdf)]
