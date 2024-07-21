@@ -2,7 +2,7 @@
 
 ## Clases
 Clase 01 (07/mar): Programa del Curso 
-[[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase01-Programa.pdf)]
+[[PDF](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase01-Programa.pdf)]
 [[Programa](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Administrativo/programa_curso_v1.pdf)]
 
 Clase 02 (08/mar): Electrostática en el Vacío 
@@ -44,32 +44,95 @@ Clase 16 (25/may): Método de Diferencias Finitas en el Dominio del Tiempo [[Cla
 
 Clase 17 (10/may): Líneas de Transmisión [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase17-IntroLineasdeTransmision.pdf)]
 
+Clase 18 (10/may): LT sin pérdidas [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase18-LTsinPerdidas.pdf)]
+
+Clase 19 (10/may): Cargas desbalanceadas [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase19-CargasDesbalanceadas.pdf)]
+
+Clase 20 (10/may): ROE, Potencia y Terminaciones [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase20-ROEPotenciaTerminaciones.pdf)]
+
+Clase 21 (10/may): Carta de Smith [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase21-CartaSmith.pdf)]
+
+Clase 22 (10/may): Adaptación de Impedancias [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase22-AdaptacionImpedancias.pdf)]
+
+Clase 23 (10/may): Aplicaciones Adicionales [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase23-AplicacionesAdicionales.pdf)]
+
+Clase 24 (10/may): Modos TEM, TE y TM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase24-ModosTEMTETM.pdf)]
+
+Clase 25 (10/may): WG Rectangulares [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase25-GuiasRectangularesTEMTETM.pdf)]
+
+Clase 26 (10/may): Propagacion en WG rectangulares [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase26-GuiasRectangularesPropagacion.pdf)]
+
+Clase 27 (10/may): Antenas [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase27-IntroAntenas.pdf)]
+
+Clase 28 (10/may): Caracterización de Antenas [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase28-CaractAntenas.pdf)]
+
+Clase 29 (10/may): MRI [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase29-MRI.pdf)]
+
+Clase 30 (10/may): QSM [[Clase](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Clases/Clase30-QSM.pdf)]
+
 
 ## Controles
 Control 01: Programa del Curso 
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_01-pauta.pdf)]
 
 Control 02: Electrostática General
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_02-pauta.pdf)]
 
 Control 03: Expansión Multipolar
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_03-pauta.pdf)]
 
 Control 04: Transformaciones de Lorentz
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04-pauta.pdf)]
 
 Control 05: Condiciones de Borde
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_04_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_05-pauta.pdf)]
 
 Control I1: Popurrí de Electromagnetismo
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_I1_pauta.pdf)]
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i1_pauta.pdf)]
 
-Control 06: Ondas y Polarización
-[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06_pauta.pdf)]
+Control 06: Ecuación de Onda
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_06-pauta.pdf)]
+
+Control 07: Métodos Analíticos
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_07-pauta.pdf)]
+
+Control 08: Métodos Numéricos
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_08-pauta.pdf)]
+
+Control 09: Lineas de Transmisión
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_09-pauta.pdf)]
+
+Control 10: ROE
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_10-pauta.pdf)]
+
+Control I2: Ondas y LT
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i2-pauta.pdf)]
+
+Control 11: Guías de Ondas
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_11-pauta.pdf)]
+
+Control 12: Impedance Matching
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_12-pauta.pdf)]
+
+Control 13: Antenas
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_13-pauta.pdf)]
+
+Control 14: 4NEC2
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_14-pauta.pdf)]
+
+Control 15: Control de Oro
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_15-pauta.pdf)]
+
+Control I3: Aplicaciones de TEM
+[[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Controles/control_i3-pauta.pdf)]
 
 
 ## Tareas
-Tarea 01: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_01.pdf)]
+Tarea 01: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_01.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_01-pauta.pdf)]
+
+Tarea 02: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_02.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_02-pauta.pdf)]
+
+Tarea 02: Electromagnetismo [[Enunciado](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_03.pdf)][[Pauta](https://github.com/jisilva8/IEE2113_2024_01/blob/main/Tareas/Tarea_03-pauta.pdf)]
 
 
 ## Ayudantías
